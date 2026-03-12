@@ -3,3 +3,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html{
+  font-size: 16px;
+  font-family: 'Caveat', cursive, sans-serif;
+  color: #ffc0ad;
+  background-image: url("https://img.freepik.com/premium-photo/woods_366165-683.jpg");
+}
+
+h1{
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Playfair Display', sans-serif;
+  color: #fff3ec;
+}
+
+h2{
+  text-align: center;
+  font-size: 19px;
+  font-weight: 400;
+  color: #afafae;
+  font-family: 'Playfair Display', sans-serif;
+}
+
+p {
+  line-height: 1;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.quote {
+  color:#e78fb3;
+}
