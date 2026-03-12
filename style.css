@@ -5,7 +5,6 @@
 }
 
 html{
-  font-size: 1rem;
   font-family: 'Caveat', cursive, sans-serif;
   color: #ffc0ad;
   background-image: url("https://img.freepik.com/premium-photo/woods_366165-683.jpg");
@@ -16,7 +15,7 @@ html{
 
 h1{
   text-align: center;
-  font-size: 4rem;
+  font-size: 50px;
   font-family: 'Playfair Display', sans-serif;
   color: #fff3ec;
 }
@@ -24,16 +23,17 @@ h1{
 h2{
   text-transform: uppercase;
   text-align: center;
-  font-size: 2rem;
+  font-size: 30px;
   font-weight: 400;
-  color: #afafae;
+  color: #dcdcdb;
   font-family: 'Playfair Display', sans-serif;
 }
 
 p {
-  margin: 0, 0, 0, 25px;
+  font-size: 24px;
   max-width: 540px;
   line-height: 1;
+  margin: 0, 0, 0, 25;
   margin-bottom: 10px;
   padding: 5px;
 }
