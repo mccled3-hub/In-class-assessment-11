@@ -9,6 +9,9 @@ html{
   font-family: 'Caveat', cursive, sans-serif;
   color: #ffc0ad;
   background-image: url("https://img.freepik.com/premium-photo/woods_366165-683.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1{
@@ -19,6 +22,7 @@ h1{
 }
 
 h2{
+  text-transform: uppercase;
   text-align: center;
   font-size: 19px;
   font-weight: 400;
@@ -27,9 +31,10 @@ h2{
 }
 
 p {
+  max-width: 540px;
   line-height: 1;
   margin-bottom: 5px;
-  text-align: left;
+  text-align: justify;
 }
 
 .quote {
